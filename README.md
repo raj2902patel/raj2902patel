@@ -109,37 +109,6 @@
 <br>
 <br>
 
-
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">👀 Statistics</h2>
-
-
-<br>
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2902patel&" alt="raj2902patel" /></p><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2902patel&show_icons=true&locale=en" alt="raj2902patel" /></p><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj2902patel&show_icons=true&locale=en&layout=compact" alt="raj2902patel" /></p><br>
-
-
-<br>
-
-
-
-
-
-
-</div>
-
 <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:raj2902patel@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
